@@ -1,1 +1,1 @@
-Sitemap: https://byuidatascience.github.io/datascience_portfolio/sitemap.xml
+Sitemap: https://naomi-tang.github.io/my_portfolio/sitemap.xml
