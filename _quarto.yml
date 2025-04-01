@@ -1,8 +1,12 @@
 project: 
   type: website
+pull (circle arrow buttone)
+add (plus sign)
+commit (timestamp, changes)
+then go to git hub and push
 
 website:
-  title: "Your_Name - Data Science Portfolio"
+  title: "Naomi Tangataevaha - Data Science Portfolio"
   favicon: Images/favicon.png
   back-to-top-navigation: true
   repo-url: https://github.com/username/username.github.io
@@ -10,7 +14,7 @@ website:
 
   page-footer: 
     border: true
-    left: "Your_Name 2024©"
+    left: "Naomi Tangataevaha 2024©"
     right: 
       - icon: linkedin
         href: Your_LinkedIn_URL
